@@ -47,7 +47,7 @@ When launching a new container, you can simply provide `dt-launcher-my-launcher`
 command.
 
 ### reference
-https://github.com/ultralytics/yolov3
-https://github.com/tanluren/yolov3-channel-and-layer-pruning
-https://github.com/westpoint-robotics/darknet-yolov3-ros
-https://github.com/NVIDIA/TensorRT
+https://github.com/ultralytics/yolov3  
+https://github.com/tanluren/yolov3-channel-and-layer-pruning  
+https://github.com/westpoint-robotics/darknet-yolov3-ros  
+https://github.com/NVIDIA/TensorRT  
