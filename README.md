@@ -45,3 +45,9 @@ a launcher will be created for it. For example, the script file
 
 When launching a new container, you can simply provide `dt-launcher-my-launcher` as
 command.
+
+### reference
+https://github.com/ultralytics/yolov3
+https://github.com/tanluren/yolov3-channel-and-layer-pruning
+https://github.com/westpoint-robotics/darknet-yolov3-ros
+https://github.com/NVIDIA/TensorRT
